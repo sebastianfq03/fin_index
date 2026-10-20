@@ -1,0 +1,21 @@
+Variable_Original;Variable_Negocio;Importancia_Media_SHAP;Impacto_Relativo_pct
+log_ingreso;Logaritmo del Ingreso Mensual ln(Y + 1);0.46019653075678646;17.22
+acceso_digital;Índice de Inclusión Digital (0 a 5);0.42363257422937795;15.85
+educacion_anios;Nivel Educativo (Ordinal Formal);0.3385538325106058;12.67
+edad;Edad del Titular (Años);0.25595561081764834;9.58
+informalidad;Condición de Informalidad Laboral;0.24984191196856792;9.35
+tiene_ruc;Negocio Formalizado con RUC (SUNAT);0.2262103547985315;8.46
+dominio_macro_Lima Metropolitana;Macrorregión Geográfica: Lima Metropolitana;0.14258145798844737;5.33
+es_mujer;Sexo Femenino;0.10548492286426138;3.95
+tiene_plan_datos;Conectividad Móvil con Datos;0.09948755845958619;3.72
+dominio_macro_Sierra;Macrorregión Geográfica: Sierra;0.07062319044722883;2.64
+empleo_vulnerable;Inserción Laboral Vulnerable (Indep. No Calificado/TFNR);0.07028103786127925;2.63
+es_jefe_hogar;Jefatura de Hogar;0.06398414114179735;2.39
+es_urbano;Residencia en Zona Urbana;0.03275384769220273;1.23
+ahorro_juntas;Práctica de Ahorro en Juntas Comunitarias;0.026563135313977422;0.99
+dominio_macro_Costa;Macrorregión Geográfica: Costa;0.0241011641245438;0.9
+dominio_macro_Selva;Macrorregión Geográfica: Selva;0.021031250194581536;0.79
+ventas_digitales;Comercialización Digital y Redes Sociales;0.017922622815114034;0.67
+nbi_score;Índice de Necesidades Básicas Insatisfechas (0-5);0.016343481746600018;0.61
+tiene_colateral_propiedad;Colateral / Garantía Predial SUNARP;0.014096878431554466;0.53
+ahorro_casa;Preferencia por Efectivo en Hogar;0.013478250197873453;0.5

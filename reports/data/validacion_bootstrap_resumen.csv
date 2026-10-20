@@ -1,0 +1,9 @@
+Parametro;Media_Bootstrap;Error_Estandar;IC_95_Inferior;IC_95_Superior
+IVF Medio Poblacional;269.84;2.33;265.59;274.34
+Índice de Rand Ajustado (ARI);0.7917;0.1651;0.5651;0.9999
+Vulnerabilidad Base Perfil R_0;0.4064;0.1062;0.219;0.5719
+Masa Poblacional Perfil 0 (%);5.84;5.6;0.06;17.14
+Vulnerabilidad Base Perfil R_1;0.4074;0.0137;0.3689;0.4204
+Masa Poblacional Perfil 1 (%);18.18;2.64;13.6;27.11
+Vulnerabilidad Base Perfil R_2;0.2273;0.0107;0.2132;0.2406
+Masa Poblacional Perfil 2 (%);75.98;6.01;64.33;82.1

@@ -1,0 +1,33 @@
+# ==============================================================================
+# GITIGNORE: PROYECTO INDICE_VF (ENAHO 2025)
+# ==============================================================================
+
+# Microdatos crudos ENAHO (Archivos de gran escala >1 GB)
+Datos/
+data_raw/
+*.csv.gz
+
+# Entornos virtuales Python
+.venv/
+venv/
+env/
+ENV/
+
+# Archivos de caché y compilación
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Logs y seguimiento de ejecución
+*.log
+pipeline_execution.log
+catboost_info/
+.pytest_cache/
+
+# Archivos temporales del sistema y pruebas
+test_*.png
+test_*.pdf
+scratch/
+.DS_Store
+Thumbs.db
