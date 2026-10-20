@@ -263,7 +263,7 @@ Al cruzar el **IVF Continuo** (eje X: vulnerabilidad) con la **Propensión Look-
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/xcbas/fin_index.git
+git clone https://github.com/sebastianfq03/fin_index.git
 cd fin_index
 ```
 
